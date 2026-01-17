@@ -68,7 +68,5 @@ Contributions from the open-source community are welcome. To contribute, follow 
 4. Push your changes to your fork.
 5. Open a pull request, explaining the changes made.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for details.
+.
 
